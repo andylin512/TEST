@@ -1,3 +1,3 @@
 for i i range(10):
-	print i
+	print i * 10
 
